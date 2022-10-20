@@ -1,0 +1,15 @@
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\bin\Debug\net6.0\task004.exe
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\bin\Debug\net6.0\task004.deps.json
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\bin\Debug\net6.0\task004.runtimeconfig.json
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\bin\Debug\net6.0\task004.dll
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\bin\Debug\net6.0\task004.pdb
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\task004.csproj.AssemblyReference.cache
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\task004.AssemblyInfoInputs.cache
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\task004.AssemblyInfo.cs
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\task004.csproj.CoreCompileInputs.cache
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\task004.dll
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\refint\task004.dll
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\task004.pdb
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\task004.genruntimeconfig.cache
+C:\Юля\c#домашки\c#ДЗ1\task002\task004\obj\Debug\net6.0\ref\task004.dll
